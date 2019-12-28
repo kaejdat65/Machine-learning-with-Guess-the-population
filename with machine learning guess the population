@@ -43,7 +43,6 @@ y = np.array([65022300,65938265,66845635,
 79814871,80810525])
 
 
-
 sumx , sumx2 , sumy , sumxy, hata, n = 0, 0, 0, 0, 0, np.size(x)
 
 x2 , xy, normalizedx, normalizedy, denormalizedx, denormalizedy  = np.zeros(shape=(17)),np.zeros(shape=(17)),np.zeros(shape=(17)),np.zeros(shape=(17)),np.zeros(shape=(17)),np.zeros(shape=(17))
